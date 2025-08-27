@@ -6,7 +6,7 @@ const port = 3000;;
 
 
 app.get('/', (req, res) => {
-    res.send("Olá, temos uma imagem.")
+    res.send("https://www.linkedin.com/in/wesley-vargas-de-andrade-54b413163/overlay/photo/");
 });
 
 app.listen(port, () => {
